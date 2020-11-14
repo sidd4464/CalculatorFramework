@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19145" started-at="2020-11-14T08:46:57Z" finished-at="2020-11-14T08:47:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19145" started-at="2020-11-14T08:46:57Z" finished-at="2020-11-14T08:47:17Z">
+      <class name="com.calculator.test.testcases.CalculatorTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.calculator.test.testcases.CalculatorTest@27efef64]" name="setUp" is-config="true" duration-ms="8733" started-at="2020-11-14T08:46:49Z" finished-at="2020-11-14T08:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Calculate()[pri:0, instance:com.calculator.test.testcases.CalculatorTest@27efef64]" name="Calculate" duration-ms="19119" started-at="2020-11-14T08:46:57Z" finished-at="2020-11-14T08:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculate -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.calculator.test.testcases.CalculatorTest@27efef64]" name="closeDriver" is-config="true" duration-ms="787" started-at="2020-11-14T08:47:17Z" finished-at="2020-11-14T08:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.calculator.test.testcases.CalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
